@@ -1,0 +1,30 @@
+{
+  "title": "国家为什么会失败：权力、富裕与贫困的根源",
+  "source_type": "epub",
+  "book_type": "社会学/政治学书（比较政治经济学）",
+  "structure_confidence": "high",
+  "chapters": [
+    {"chapter_id": "ch01", "title": "很靠近却很不一样", "order": 1},
+    {"chapter_id": "ch02", "title": "无效的理论", "order": 2},
+    {"chapter_id": "ch03", "title": "富裕与贫穷的形成", "order": 3},
+    {"chapter_id": "ch04", "title": "小差异和关键时期：历史的重量", "order": 4},
+    {"chapter_id": "ch05", "title": "榨取式制度下的成长", "order": 5},
+    {"chapter_id": "ch06", "title": "渐行渐远", "order": 6},
+    {"chapter_id": "ch07", "title": "转折点", "order": 7},
+    {"chapter_id": "ch08", "title": "别在我们的领土：发展的障碍", "order": 8},
+    {"chapter_id": "ch09", "title": "倒退发展", "order": 9},
+    {"chapter_id": "ch10", "title": "富裕的扩散", "order": 10},
+    {"chapter_id": "ch11", "title": "良性循环", "order": 11},
+    {"chapter_id": "ch12", "title": "恶性循环", "order": 12},
+    {"chapter_id": "ch13", "title": "当前的国家为什么会失败", "order": 13},
+    {"chapter_id": "ch14", "title": "打破窠臼", "order": 14},
+    {"chapter_id": "ch15", "title": "理解富裕与贫困", "order": 15}
+  ],
+  "front_matter": ["序言"],
+  "appendix": [],
+  "notes_on_extraction": [
+    "EPUB为简体中英对照版，正文按行号组织",
+    "章节编号从第5361行开始，前5360行为序言等前置内容",
+    "共识别到15章，结构清晰"
+  ]
+}
