@@ -1,0 +1,23 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__aionui-team-6365cbe8-4935-4906-a001-4813271ac813__team_spawn_agent",
+      "mcp__aionui-team-6365cbe8-4935-4906-a001-4813271ac813__team_task_create",
+      "mcp__aionui-team-6365cbe8-4935-4906-a001-4813271ac813__team_send_message",
+      "mcp__aionui-team-6365cbe8-4935-4906-a001-4813271ac813__team_task_list",
+      "mcp__aionui-team-6365cbe8-4935-4906-a001-4813271ac813__team_task_update",
+      "mcp__aionui-team-6365cbe8-4935-4906-a001-4813271ac813__team_shutdown_agent",
+      "mcp__aionui-team-6365cbe8-4935-4906-a001-4813271ac813__team_members",
+      "Bash(wc -l D:/code/read-book/why-nations-fail/output/chapters/ch*.md)",
+      "Bash(grep -l \"容易被忽略的细节\" D:/code/read-book/why-nations-fail/output/chapters/ch*.md)",
+      "Bash(mkdir -p ~/.claude/skills/fanqie-nanpin-zhengwen-xuxie)",
+      "Bash(unzip -o \"D:\\\\code\\\\read-book\\\\fanqie-nanpin-zhengwen-xuxie.skill\" -d ~/.claude/skills/fanqie-nanpin-zhengwen-xuxie)",
+      "Read(//c/Users/machi/.claude/skills/**)",
+      "Bash(rm -rf ~/.claude/skills/fanqie-nanpin-zhengwen-xuxie)",
+      "Bash(mkdir -p ~/.claude/skills)",
+      "Bash(unzip -o \"D:\\\\code\\\\read-book\\\\fanqie-nanpin-zhengwen-xuxie.skill\" -d ~/.claude/skills)",
+      "Bash(mkdir -p ~/.claude/skills/fanqie-nanpin-edit-review)",
+      "Bash(unzip -o \"D:\\\\code\\\\read-book\\\\fanqie-nanpin-edit-review.skill\" -d ~/.claude/skills/)"
+    ]
+  }
+}

@@ -1,0 +1,3 @@
+interface:
+  display_name: "番茄男频正文续写"
+  short_description: "基于上一章正文、大纲和本章目标，续写番茄男频单章并输出精修版"
